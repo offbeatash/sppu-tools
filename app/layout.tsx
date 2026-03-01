@@ -62,6 +62,8 @@ export default function RootLayout({
         {/* Main Content */}
         <main className="flex-1 w-full max-w-4xl mx-auto px-6 py-8">
           {children}
+          <script async="async" data-cfasync="false" src="https://pl28820190.effectivegatecpm.com/7bccc23a4f58f1ba985449f17bfa02bd/invoke.js"></script>
+          <div id="container-7bccc23a4f58f1ba985449f17bfa02bd"></div>
         </main>
         
         {/* Global Footer */}
